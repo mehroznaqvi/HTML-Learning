@@ -1,0 +1,33 @@
+.prop{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+#val{
+    
+    background-color: blueviolet;
+    height: auto;
+}
+#textdata{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+}
+#btn1{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 100px;
+    padding: 10px;
+}
+#val1{
+    background-color: blue;      
+}
+#val2{
+    background-color: blue;
+}
+#footer{
+    background-color: aqua;
+}
