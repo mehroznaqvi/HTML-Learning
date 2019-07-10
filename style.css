@@ -1,3 +1,12 @@
+ 
+ head,body,h1,h2,h3,p,div,span,a{
+     margin: 0%;
+     padding: 0%;
+     color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+ }
+ 
  .div1{
     width: 100%;
     height: auto;
@@ -49,9 +58,21 @@
     margin-bottom: 300px;
     padding: 20px;
     border-radius: 5px;
-    border: none;}
+    border: none;
+}
+.div2{
+    background-color: #17c2a4;
+    padding: 50px;
+}
 #val1{
-    background-color: blue;      
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content-direcction{  
+  display: flex;   
+  flex-direction: row;  
 }
 #val2{
     background-color: blue;
